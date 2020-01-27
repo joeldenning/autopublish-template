@@ -1,5 +1,5 @@
 {
-  "name": "esm-bundle-test",
+  "name": "@esm-bundle/autopublish-template",
   "version": "15.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeldenning/esm-bundle-test.git"
+    "url": "git+https://github.com/joeldenning/autopublish-template.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joeldenning/esm-bundle-test/issues"
+    "url": "https://github.com/joeldenning/autopublish-template/issues"
   },
-  "homepage": "https://github.com/joeldenning/esm-bundle-test#readme"
+  "homepage": "https://github.com/joeldenning/autopublish-template#readme"
 }
