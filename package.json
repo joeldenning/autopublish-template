@@ -1,6 +1,6 @@
 {
   "name": "autopublish-template",
-  "version": "20.0.17",
+  "version": "20.0.18",
   "description": "",
   "main": "index.js",
   "scripts": {
